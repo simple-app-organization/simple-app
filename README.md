@@ -8,7 +8,22 @@ Useful for: DIYers, those who are learning or site-creators, web-masters, web-de
 
 Soon an useful CLI for create app and add page(s) and section(s).
 
-## Actual language supported
+## Index
+
+- [Actual languages supported](#actual-languages-supported)
+    - React
+    - PHP
+    - Others
+- [Examples of use](#examples-of-use)
+    - React
+    - PHP
+    - Suggest your example of use
+- [Contribute](#contribute)  
+- [License](#license)
+- [Contributors](#contributors)
+- [Credits](#credits)
+
+## Actual languages supported
 
 ### React
 
@@ -20,7 +35,7 @@ https://github.com/simple-app-organization/php-simple-mit-app
 
 ### Others?
 
-If you want [contribute](contribute), thanks.
+If you want [contribute](#contribute), thanks.
 
 ## Examples of use  
 ### React  
@@ -31,11 +46,23 @@ If you want [contribute](contribute), thanks.
 ### PHP  
 - [php-base-info-site](http://magicianred.altervista.org/gigs/php-base-info-site)
 
+### Suggest your example of use
+
+If you have made an example of (or effective) use of *simple-app*, let me know I add it at this list. Thanks.  
+
 ## Contribute
 
 Do you want contribute? Or do you want create a *simple-app* in your favorite languages/technology?
 
-[Italian](it/DEVELOP.md) | [English](en/DEVELOP.md)
+[Read the Code of Conduct](https://github.com/simple-app-organization/.github/blob/main/CODE_OF_CONDUCT.md)  
+[Read the Contribution file](https://github.com/simple-app-organization/.github/blob/main/CONTRIBUTING.md)  
+
+### Develop guideline:
+- [Italian](it/DEVELOP.md)
+- [English](en/DEVELOP.md)
+
+Any suggest or feedback?
+Please write in the [discussions forum](https://github.com/simple-app-organization/simple-app/discussions), thanks.
 
 ## License
 
