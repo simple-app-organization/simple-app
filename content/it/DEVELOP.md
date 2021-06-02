@@ -26,7 +26,7 @@ Non sarà un'applicazione che serve per andare sulla luna, ma può iniziare a da
 
 Una *simple-app* deve avere:
 
-- dei dati in plain text (json, markdown o altro formato semplice) che l'utente potrà modificare (nella sezione [File di esempio](file-di-esempio) trovare una base di partenza)
+- dei dati in plain text (json, markdown o altro formato semplice) che l'utente potrà modificare (nella sezione [File di esempio](#file-di-esempio) trovare una base di partenza)
 - dei test per verificare il funzionamento dei componenti e delle funzionalità
 
 Una *simple-app* **non** deve avere:

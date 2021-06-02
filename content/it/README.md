@@ -3,7 +3,7 @@
 
 ## Descrizione
 
-*Simple application* (in differenti linguaggi di programmazione e markup) per creare piccoli siti che non richiedono ne di un database ne di un hosting dalle alte performance, ma che utilizza file che un semplice utente può modificare facilmente.  
+*Simple application* (in differenti linguaggi di programmazione e markup) per creare piccoli siti che non richiedono ne un database ne un hosting dalle alte performance, ma che utilizza dei semplici file che un utente (non programmatore) può modificare facilmente.  
   
 Utile per: Fai-da-te, per chi sta imparando o per creatori di siti, webmaster e webdesigner. Per clienti che hanno un basso budget (quando soluzioni come wordpress sono eccessive o l'hosting non è abbastanza performante).  
 
