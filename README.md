@@ -23,14 +23,13 @@ https://github.com/simple-app-organization/php-simple-mit-app
 If you want [contribute](contribute), thanks.
 
 ## Examples of use  
-
 ### React  
-- [react-base-info-site](https://github.com/simple-app-organization/react-base-info-site)  
-- [react-carousel-info-site](https://github.com/simple-app-organization/react-carousel-info-site)
-- [react-base-multilang-site](https://github.com/simple-app-organization/react-base-multilang-site)
+- [react-base-info-site](http://magicianred.altervista.org/gigs/react-base-info-site)  
+- [react-carousel-info-site](http://magicianred.altervista.org/gigs/react-carousel-info-site)
+- [react-base-multilang-site](http://magicianred.altervista.org/gigs/react-base-multilang-site)
 
 ### PHP  
-- [php-base-info-site](https://github.com/simple-app-organization/php-base-info-site)
+- [php-base-info-site](http://magicianred.altervista.org/gigs/php-base-info-site)
 
 ## Contribute
 

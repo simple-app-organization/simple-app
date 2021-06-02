@@ -15,19 +15,19 @@ Presto una utile CLI per creare applicazioni e aggiungere pagine e sezioni.
 ### Casi d'uso
 
 #### Creare una simple-app
-![Diagram](https://github.com/simple-app-organization/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.svg)  
-[drawio](https://github.com/simple-app-organization/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.drawio)  
-[svg](https://github.com/simple-app-organization/simple-app/blob/develop/Project/Diagrams/simple-app-create-UseCaseDiagram.svg)  
+![Diagram](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/simple-app-create-UseCaseDiagram.svg)  
+[drawio](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/simple-app-create-UseCaseDiagram.drawio)  
+[svg](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/simple-app-create-UseCaseDiagram.svg)  
 
 #### Editare il contenuto (e la simple-app)
-![Diagram](https://github.com/simple-app-organization/simple-app/blob/develop/Project/Diagrams/simple-app-edit-UseCaseDiagram.svg)  
-[drawio](https://github.com/simple-app-organization/simple-app/blob/develop/Project/Diagrams/simple-app-edit-UseCaseDiagram.drawio)  
-[svg](https://github.com/simple-app-organization/simple-app/blob/develop/Project/Diagrams/simple-app-edit-UseCaseDiagram.svg)  
+![Diagram](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/simple-app-edit-UseCaseDiagram.svg)  
+[drawio](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/simple-app-edit-UseCaseDiagram.drawio)  
+[svg](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/simple-app-edit-UseCaseDiagram.svg)  
 
 #### Usare la simple-app
-![Diagram](https://github.com/simple-app-organization/simple-app/blob/develop/Project/Diagrams/simple-app-use-UseCaseDiagram.svg)  
-[drawio](https://github.com/simple-app-organization/simple-app/blob/develop/Project/Diagrams/simple-app-use-UseCaseDiagram.drawio)  
-[svg](https://github.com/simple-app-organization/simple-app/blob/develop/Project/Diagrams/simple-app-use-UseCaseDiagram.svg)  
+![Diagram](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/simple-app-use-UseCaseDiagram.svg)  
+[drawio](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/simple-app-use-UseCaseDiagram.drawio)  
+[svg](https://github.com/simple-app-organization/simple-app/blob/master/Project/Diagrams/simple-app-use-UseCaseDiagram.svg)  
 
   
 ## React  
