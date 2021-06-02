@@ -1,6 +1,6 @@
 # simple-app  
 
-[Italian](it/README.md) | [English](en/README.md)
+[Italian](content/it/README.md) | [English](content/en/README.md)
 
 *Simple applications* (in different programming/markup languages) to create small sites that do not require neither database nor high-performance hosting, but rather have files that a simple user can easily edit.  
   
@@ -58,8 +58,8 @@ Do you want contribute? Or do you want create a *simple-app* in your favorite la
 [Read the Contribution file](https://github.com/simple-app-organization/.github/blob/main/CONTRIBUTING.md)  
 
 ### Develop guideline:
-- [Italian](it/DEVELOP.md)
-- [English](en/DEVELOP.md)
+- [Italian](content/it/DEVELOP.md)
+- [English](content/en/DEVELOP.md)
 
 Any suggest or feedback?
 Please write in the [discussions forum](https://github.com/simple-app-organization/simple-app/discussions), thanks.
