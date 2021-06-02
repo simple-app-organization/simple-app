@@ -82,7 +82,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-[Italian](it/LICENCE) | [English](en/LICENCE)
+[Italian](content/it/LICENCE) | [English](content/en/LICENCE)
 
 ## Contributors
 
