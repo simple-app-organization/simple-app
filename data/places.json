@@ -1,0 +1,26 @@
+[
+    { 
+        "id": 1, 
+        "title": "legal office", 
+        "address": "New York City", 
+        "country": "U.S.A.", 
+        "phone": "+00102020", 
+        "description": "Our legal office where we do burocratic stuffs" 
+    },
+    { 
+        "id": 2, 
+        "title": "operative office", 
+        "address": "Milan", 
+        "country": "Italy", 
+        "phone": "+003902020", 
+        "description": "Our operative office where we do pratical stuffs" 
+    },
+    { 
+        "id": 3, 
+        "title": "logistic office", 
+        "address": "Hamburg", 
+        "country": "Germany", 
+        "phone": "+0042102020", 
+        "description": "Our logistic office where we do delivery operations" 
+    }
+]

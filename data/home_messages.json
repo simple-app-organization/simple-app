@@ -1,0 +1,23 @@
+[
+    { 
+        "id": 1, 
+        "title": "Welcome to *-simple-app!", 
+        "text": "<p>This is a <b>Demo webapp</b> meant to show you this digital product.</p>", 
+        "imagesrc": "https://picsum.photos/400/200",
+        "link": "https://magicianred.altervista.org/gigs/php-base-info-site/"
+    },
+    { 
+        "id": 2, 
+        "title": "Released react-base-info-site!", 
+        "text": "<p>This is a <i>Demo webapp meant</i> to show you this digital product.</p>", 
+        "imagesrc": "https://picsum.photos/400/200" ,
+        "link": "https://magicianred.altervista.org/gigs/react-base-info-site/"
+    },
+    { 
+        "id": 3, 
+        "title": "Released react-carousel-info-site!", 
+        "text": "<p>This is a <strong>Demo webapp</strong> meant to show you this digital product.</p>", 
+        "imagesrc": "https://picsum.photos/400/200" ,
+        "link": "https://magicianred.altervista.org/gigs/react-carousel-info-site/"
+    }
+]
