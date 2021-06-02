@@ -3,7 +3,7 @@
 
 ## About this document
 This document is a traduction of Italian README.md, for updated information always check the Italian files linked above. Thanks
-(If you want, read the [translation tracker issues](https://github.com/Magicianred/learn-by-doing/projects/2) for help to keep the info up-to-date. Thank so much)
+(If you want, read the [translation tracker issues](https://github.com/simple-app-organization/simple-app/projects/1) for help to keep the info up-to-date. Thank so much)
 
 ## Description
 *Simple applications* (in different programming/markup languages) to create small sites that do not require neither database nor high-performance hosting, but rather have files that a simple user can easily edit.  
@@ -11,8 +11,6 @@ This document is a traduction of Italian README.md, for updated information alwa
 Useful for: DIYers, those who are learning or site-creators, web-masters, web-designers. For their low-budget customers (when solutions such as Wordpress are excessive or hosting is not enough performing).  
 
 Soon an useful CLI for create app and add page(s) and section(s).
-
-
 
 ## UML Diagrams  
 

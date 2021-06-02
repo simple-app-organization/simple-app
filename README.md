@@ -57,12 +57,17 @@ Do you want contribute? Or do you want create a *simple-app* in your favorite la
 [Read the Code of Conduct](https://github.com/simple-app-organization/.github/blob/main/CODE_OF_CONDUCT.md)  
 [Read the Contribution file](https://github.com/simple-app-organization/.github/blob/main/CONTRIBUTING.md)  
 
+Check the [Develop tracking issues](https://github.com/simple-app-organization/simple-app/projects/2) for see if there is some issues opened.  
+
 ### Develop guideline:
 - [Italian](content/it/DEVELOP.md)
 - [English](content/en/DEVELOP.md)
 
 Any suggest or feedback?
 Please write in the [discussions forum](https://github.com/simple-app-organization/simple-app/discussions), thanks.
+
+Would you like to translate this project into your language?  
+[translation tracking issues](https://github.com/simple-app-organization/simple-app/projects/1)
 
 ## License
 
